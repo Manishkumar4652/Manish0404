@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manish Kumar Reddy</h1>
-<h3 align="center">A passionate frontend developer from per from India</h3>
+<h1 align="center">Hi 👋, I'm Manish Kumar </h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishkumar4652&label=Profile%20views&color=0e75b6&style=flat" alt="manishkumar4652" /> </p>
 
